@@ -11,3 +11,4 @@ npx => node package executer
 script => which help to run project 
 like production build or system environment
 
+build which is user for build production 
