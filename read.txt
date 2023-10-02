@@ -1,0 +1,13 @@
+npm => when i install Node it was come with that 
+node package manger 
+
+if you don't want to install package 
+npx => node package executer 
+
+1) npx create-react-app => take lot of time bulkier
+
+* package.json first go there learn 
+
+script => which help to run project 
+like production build or system environment
+
