@@ -1,0 +1,5 @@
+1) Install Tailwind CSS with Vite : https://tailwindcss.com/docs/guides/vite
+
+2) https://www.devui.io/ easy to used components
+
+3) You can Pass the Object Array String and More With the Help of Props/property
