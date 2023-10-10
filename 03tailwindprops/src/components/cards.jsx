@@ -1,6 +1,6 @@
 function CardOne(props) {
   console.log(props);
-  let myobject = props.myObjects;
+
   return (
     <div className="m-auto relative h-[400px] w-[300px] rounded-md">
       <img
