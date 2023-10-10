@@ -46,7 +46,7 @@ function App() {
         className={`h-screen w-screen ${currentColor.color} flex items-end `}
       >
         <div
-          className={` w-[70%] flex flex-row mx-auto bg-white justify-center gap-4 items-center rounded-full py-2`}
+          className={` w-[70%]  flex flex-row mx-auto bg-white justify-center gap-4 items-center rounded-full py-2`}
         >
           {colors.map((color) => {
             return (
