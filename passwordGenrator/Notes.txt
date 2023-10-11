@@ -1,0 +1,14 @@
+Certainly! useCallback is a hook in React that helps you optimize your application's performance by memoizing 
+(remembering) a function so that it doesn't get recreated every time your component re-renders.
+ 
+In simpler words, it's like having a sticky note where you write down a function. With useCallback,
+ this function is only rewritten when certain dependencies change, which can make your application run faster
+  and use less memory.
+
+Imagine you have a button in your component, and you want to pass a function to that button's onClick event. 
+If you don't use useCallback, a new function is created every time your component renders. This can be inefficient 
+if your component renders frequently.
+
+But if you use useCallback, the function is only created when the dependencies you specify change. So, it's
+ like using the same sticky note with the function written on it, and you only get a new one when you need to
+  change what's written on it. This can help your application perform better.
