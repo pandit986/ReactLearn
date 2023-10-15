@@ -1,0 +1,13 @@
+1) Mounting refers to the initial creation 
+of a React component and its insertion 
+into the DOM (Document Object Model).
+
+2) When a component is mounted, it means 
+that it is being rendered for the first
+time and added to the web page.
+
+<----------------------------------->
+
+1) Unmounting, on the other hand, refers 
+to the phase when a React component is 
+removed from the DOM and no longer exists.
