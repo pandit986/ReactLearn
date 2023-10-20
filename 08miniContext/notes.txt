@@ -1,0 +1,14 @@
+here we create the context Folder with js extension
+
+and inside we create the variable in that 
+//React Context is a way to manage state globally.
+// UserContext is one type of provider which 
+provide variable 
+
+
+<UserContext> // treat as a global variable
+  <Login>
+  <Data>
+</UserContext>
+
+//we have to make provide which provider data
